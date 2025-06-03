@@ -32,9 +32,6 @@ Facilitar o preenchimento da declaração anual de IR por meio de um **agregador
 ### ✅ Validações e Automatizações
 ![Validações](./imagens/validacoes.png)
 
-### 🔗 Links Úteis e Ferramentas Adicionais
-![Links Úteis](./imagens/links-uteis.png)
-
 ---
 
 ## 📂 Estrutura do Repositório
